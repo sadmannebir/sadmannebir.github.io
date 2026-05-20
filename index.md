@@ -12,5 +12,4 @@ My current research focuses on the comparative and functional genomics of cold-a
 
 Beyond research, I am committed to mentoring students and supporting capacity building in microbiology and bioinformatics, particularly in under-resourced contexts. I have guided students through microbiology-focused dissertation projects and am passionate about fostering inclusive scientific collaboration between institutions in the Global North and South. Ultimately, I aim to contribute toward strengthening research infrastructure, interdisciplinary training, and equitable access to genomic and microbiological sciences.
 </div>
-
 ​
