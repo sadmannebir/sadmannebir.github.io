@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "SADMAN SAKIB NEBIR"
   avatar : "/assets/images/saad.png"
-  bio    : "PhD researcher interested in Microbial ecology, Molecular ecology, Polar microbiology, and Astrobiology research."
+  bio    : "PhD researcher interested in Microbial ecology, Polar microbiology, and Astrobiology research."
   links:
     - label: "LinkedIn"
       icon: "fa-brands fa-square-linkedin"
