@@ -3,6 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a PhD researcher at the University of Turku, studying how microbial life colonizes some of the most extreme environments on Earth. My work focuses on Basen nunatak, Antarctica, tracing how microbial communities assemble, interact with early plant and algal hosts, and adapt to Antarctic conditions as new ice-free ground is exposed by glacier retreat. My background is in comparative and evolutionary genomics of polar microorganisms — my MSc research compared Arctic and Antarctic lineages of a light-harvesting bacterial genus, Glacieibacterium. I now combine culture-dependent and -independent, comparative genomics, and manipulative stress experiments to understand how microorganisms establish, diversify, and persist as Antarctic ecosystems change.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I am always happy to connect with researchers working on polar microbial ecology, comparative genomics, bioinformatics, or host-microbiome biology.
